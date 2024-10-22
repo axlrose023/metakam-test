@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Marshmallow
+Marshmallow
+Flask-Migrate
+alembic
+marshmallow-sqlalchemy
